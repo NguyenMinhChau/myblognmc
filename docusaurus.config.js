@@ -14,7 +14,7 @@ const config = {
     url: 'https://your-docusaurus-test-site.com',
     // Set the /<baseUrl>/ pathname under which your site is served
     // For GitHub pages deployment, it is often '/<projectName>/'
-    baseUrl: '/myblognmc/',
+    baseUrl: '/',
 
     // GitHub pages deployment config.
     // If you aren't using GitHub pages, you don't need these.
@@ -113,19 +113,8 @@ const config = {
             },
             algolia: {
                 appId: '6G0VXWTIVZ',
-                apiKey: 'd0af2e03bb395e3cf246cac379dc13b4',
+                apiKey: '8bd828affa3698ed25231aedeca754dc',
                 indexName: 'frontend_developer',
-                contextualSearch: true,
-                externalUrlRegex: 'external\\.com|domain\\.com',
-                replaceSearchResultPathname: {
-                    from: '/docs/',
-                    to: '/',
-                },
-                searchParameters: {
-                    // search page docs
-                    // https://www.algolia.com/doc/api-reference/api-parameters/
-                },
-                searchPagePath: 'search',
             },
         }),
 };
