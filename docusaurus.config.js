@@ -83,7 +83,7 @@ const config = {
                         position: 'left',
                     },
                     {
-                        to: 'https://nextjs-typescript-fjjuod3h5-nguyenminhchau.vercel.app/',
+                        to: 'https://nextjs-typescript-nguyenminhchau.vercel.app/',
                         label: 'Portfolio',
                         position: 'left',
                     },
