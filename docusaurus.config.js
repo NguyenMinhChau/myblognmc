@@ -11,7 +11,8 @@ const config = {
     favicon: '/img/favicon.ico',
 
     // Set the production url of your site here
-    url: 'https://your-docusaurus-test-site.com',
+    // url: 'https://your-docusaurus-test-site.com',
+    url: 'https://myblognmc.netlify.app',
     // Set the /<baseUrl>/ pathname under which your site is served
     // For GitHub pages deployment, it is often '/<projectName>/'
     baseUrl: '/',
@@ -82,6 +83,11 @@ const config = {
                         position: 'left',
                     },
                     {
+                        to: 'https://nextjs-typescript-fjjuod3h5-nguyenminhchau.vercel.app/',
+                        label: 'Portfolio',
+                        position: 'left',
+                    },
+                    {
                         label: 'Linkedin',
                         href: 'https://www.linkedin.com/in/nguyen-minh-chau-87184320b/',
                         position: 'right',
@@ -113,8 +119,9 @@ const config = {
             },
             algolia: {
                 appId: '6G0VXWTIVZ',
-                apiKey: '8bd828affa3698ed25231aedeca754dc',
+                apiKey: '1a4277b093b680d638cd8a71515ecaba',
                 indexName: 'frontend_developer',
+                contextualSearch: true,
             },
         }),
 };
