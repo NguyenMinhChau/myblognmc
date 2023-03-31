@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>Nguyễn Minh Châu Blog</title>
-        <link>https://github.com/NguyenMinhChau/myBlog/blog</link>
+        <link>https://your-docusaurus-test-site.com/blog</link>
         <description>Nguyễn Minh Châu Blog</description>
         <lastBuildDate>Sun, 02 Apr 2023 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
@@ -10,8 +10,8 @@
         <language>en</language>
         <item>
             <title><![CDATA[Introduce For Tech]]></title>
-            <link>https://github.com/NguyenMinhChau/myBlog/blog/introduce</link>
-            <guid>https://github.com/NguyenMinhChau/myBlog/blog/introduce</guid>
+            <link>https://your-docusaurus-test-site.com/blog/introduce</link>
+            <guid>https://your-docusaurus-test-site.com/blog/introduce</guid>
             <pubDate>Sun, 02 Apr 2023 00:00:00 GMT</pubDate>
             <description><![CDATA[Đây là trang giới thiệu về công nghệ]]></description>
             <content:encoded><![CDATA[<p>Đây là trang giới thiệu về công nghệ</p>]]></content:encoded>
@@ -20,8 +20,8 @@
         </item>
         <item>
             <title><![CDATA[HTML CSS]]></title>
-            <link>https://github.com/NguyenMinhChau/myBlog/blog/htmlcss</link>
-            <guid>https://github.com/NguyenMinhChau/myBlog/blog/htmlcss</guid>
+            <link>https://your-docusaurus-test-site.com/blog/htmlcss</link>
+            <guid>https://your-docusaurus-test-site.com/blog/htmlcss</guid>
             <pubDate>Fri, 31 Mar 2023 00:00:00 GMT</pubDate>
             <category>HTML</category>
             <category>CSS</category>

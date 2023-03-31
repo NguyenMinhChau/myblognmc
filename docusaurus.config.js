@@ -8,13 +8,13 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
     title: 'Nguyễn Minh Châu',
     tagline: 'Frontend Developer (Website, Mobile app)',
-    favicon: 'img/favicon.ico',
+    favicon: '/img/favicon.ico',
 
     // Set the production url of your site here
-    url: 'https://github.com',
+    url: 'https://your-docusaurus-test-site.com',
     // Set the /<baseUrl>/ pathname under which your site is served
     // For GitHub pages deployment, it is often '/<projectName>/'
-    baseUrl: '/NguyenMinhChau/myBlog/',
+    baseUrl: '/',
 
     // GitHub pages deployment config.
     // If you aren't using GitHub pages, you don't need these.

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmydocs=self.webpackChunkmydocs||[]).push([[2535],{5641:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Introduce For Tech","permalink":"/NguyenMinhChau/myBlog/blog/introduce"},{"title":"HTML CSS","permalink":"/NguyenMinhChau/myBlog/blog/htmlcss"}]}')}}]);
