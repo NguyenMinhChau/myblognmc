@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmydocs=self.webpackChunkmydocs||[]).push([[3742],{8765:s=>{s.exports=JSON.parse('{"permalink":"/NguyenMinhChau/myBlog/blog/tags/css","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://your-docusaurus-test-site.com/blog</id>
+    <id>https://github.com/NguyenMinhChau/myBlog/blog</id>
     <title>Nguyễn Minh Châu Blog</title>
     <updated>2023-04-02T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://your-docusaurus-test-site.com/blog"/>
+    <link rel="alternate" href="https://github.com/NguyenMinhChau/myBlog/blog"/>
     <subtitle>Nguyễn Minh Châu Blog</subtitle>
-    <icon>https://your-docusaurus-test-site.com/img/favicon.ico</icon>
+    <icon>https://github.com/NguyenMinhChau/myBlog/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Introduce For Tech]]></title>
-        <id>https://your-docusaurus-test-site.com/blog/introduce</id>
-        <link href="https://your-docusaurus-test-site.com/blog/introduce"/>
+        <id>https://github.com/NguyenMinhChau/myBlog/blog/introduce</id>
+        <link href="https://github.com/NguyenMinhChau/myBlog/blog/introduce"/>
         <updated>2023-04-02T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Đây là trang giới thiệu về công nghệ]]></summary>
         <content type="html"><![CDATA[<p>Đây là trang giới thiệu về công nghệ</p>]]></content>
@@ -23,8 +23,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[HTML CSS]]></title>
-        <id>https://your-docusaurus-test-site.com/blog/htmlcss</id>
-        <link href="https://your-docusaurus-test-site.com/blog/htmlcss"/>
+        <id>https://github.com/NguyenMinhChau/myBlog/blog/htmlcss</id>
+        <link href="https://github.com/NguyenMinhChau/myBlog/blog/htmlcss"/>
         <updated>2023-03-31T00:00:00.000Z</updated>
         <author>
             <name>Nguyễn Minh Châu</name>
