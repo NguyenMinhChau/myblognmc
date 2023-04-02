@@ -37,12 +37,6 @@ export class AppComponent {
 }
 ```
 
--   Tạo component trong Angular CLI
-
-```bash
-ng g c name_component --skip-tests
-```
-
 ## Tham khảo
 
 **`Tham khảo thêm tại:`** [https://angular.io/](https://angular.io/)
