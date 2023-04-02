@@ -13,6 +13,15 @@ tags: [introduce, react native]
 -   React Native cũng cung cấp tính năng tải lại nóng, cho phép các nhà phát triển xem các thay đổi trong ứng dụng theo thời gian thực khi họ thực hiện chúng. Điều này làm cho quá trình phát triển nhanh hơn và hiệu quả hơn, vì các nhà phát triển có thể thấy tác động của những thay đổi của họ ngay lập tức.
 -   Nhìn chung, React Native là một framework mạnh mẽ và phổ biến để xây dựng các ứng dụng di động sử dụng JavaScript và ReactJS. Khả năng cung cấp trải nghiệm người dùng nhanh và nhạy, đồng thời cho phép sử dụng lại mã giữa các nền tảng khác nhau, khiến nó trở thành lựa chọn lý tưởng để phát triển ứng dụng di động hiện đại.
 
+> **Cài đặt**
+
+```bash
+npm uninstall -g react-native-cli @react-native-community/cli
+npx react-native@latest init AwesomeProject
+```
+
+> **Tham khảo:** [Cài đặt React Native](https://reactnative.dev/docs/environment-setup)
+
 ## Ví dụ về React Native
 
 ```jsx
