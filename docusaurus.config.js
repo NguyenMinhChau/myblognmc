@@ -63,7 +63,7 @@ const config = {
         /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
         ({
             // Replace with your project's social card
-            image: 'img/meta_logo.png',
+            image: 'img/logo_nmc.svg',
             navbar: {
                 title: 'Nguyễn Minh Châu',
                 logo: {
