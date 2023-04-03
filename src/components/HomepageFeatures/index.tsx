@@ -25,7 +25,7 @@ export default function HomepageFeatures(): JSX.Element {
                 <div className={styles.image_personal}>
                     <div
                         className={styles.image}
-                        style={{ backgroundImage: `url('/img/personal.png')` }}></div>
+                        style={{ backgroundImage: `url('/img/personal01.png')` }}></div>
                 </div>
             </div>
         </section>

@@ -13,22 +13,21 @@
     display: flex;
     flex-direction: column;
     flex: 1;
+    margin-right: 10px;
 }
 .hello_text {
     font-size: 18px;
-    font-family: 'Courier New', Courier, monospace;
 }
 .intro_name_text {
     font-size: 22px;
     font-weight: bold;
-    font-family: 'Courier New', Courier, monospace;
     margin: 10px 0;
     color: #1d6cf5;
 }
 .position_dev_text {
     font-size: 20px;
-    font-family: 'Courier New', Courier, monospace;
     margin: 0 0 10px 0;
+    line-height: 1.8;
 }
 
 .image_personal {
