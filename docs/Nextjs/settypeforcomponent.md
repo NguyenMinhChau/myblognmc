@@ -1,8 +1,8 @@
 ---
-id: settypeforcomponent
+id: set-type-for-component
 title: Set type for component
 sidebar_position: 10
-tags: [nextjs, typescript, set type for component]
+tags: [typescript, set type for component]
 ---
 
 > Chỉ định nghĩa `type props` cho các `component con`

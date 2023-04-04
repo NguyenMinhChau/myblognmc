@@ -1,8 +1,8 @@
 ---
-id: datatransmission
+id: data-transmission
 title: Truyền dữ liệu giữa các component (Con ⇄ Cha)
 sidebar_position: 6
-tags: [datatransmission, angular]
+tags: [data transmission]
 ---
 
 ## Ý tưởng

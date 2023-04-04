@@ -1,5 +1,5 @@
 ---
-id: nextjsorreactjs
+id: nextjs-or-reactjs
 title: Nextjs hay Reactjs
 sidebar_position: 2
 tags: [nextjs, reactjs]

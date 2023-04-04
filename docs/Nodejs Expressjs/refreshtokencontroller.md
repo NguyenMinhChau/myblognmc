@@ -1,8 +1,8 @@
 ---
-id: refreshtokencontroller
+id: refresh-token-controller
 title: Refresh Token Controller
 sidebar_position: 10
-tags: [nodejs, expressjs, jwt, token, refresh token]
+tags: [jwt, token, refresh token]
 ---
 
 > **Hàm xử lý refresh token cho người dùng**

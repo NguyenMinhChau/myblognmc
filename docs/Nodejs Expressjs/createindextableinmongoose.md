@@ -1,8 +1,8 @@
 ---
-id: createindextableinmongoose
+id: create-index-table-in-mongoose
 title: Tạo index cho các trường table trong Mongoose
 sidebar_position: 6
-tags: [nodejs, expressjs, mongoose, table, index]
+tags: [mongoose, table, index]
 ---
 
 > **Mặc định sử dụng**

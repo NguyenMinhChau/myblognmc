@@ -1,5 +1,5 @@
 ---
-id: cssgird
+id: css-gird
 title: CSS Gird
 sidebar_position: 2
 tags: [css, css gird]

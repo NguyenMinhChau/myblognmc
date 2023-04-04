@@ -1,8 +1,8 @@
 ---
-id: softdelete
+id: soft-delete
 title: Soft delete trong Mongoose
 sidebar_position: 7
-tags: [nodejs, expressjs, mongoose, softdelete]
+tags: [mongoose, softdelete]
 ---
 
 ## Cài đặt thư viện hỗ trợ

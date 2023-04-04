@@ -1,8 +1,8 @@
 ---
-id: eventbinding
+id: event-binding
 title: Event binding
 sidebar_position: 5
-tags: [eventbinding, angular]
+tags: [event binding]
 ---
 
 ## Cú pháp

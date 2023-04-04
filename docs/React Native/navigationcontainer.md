@@ -1,8 +1,8 @@
 ---
-id: navigationcontainer
+id: navigation-container
 title: Navigation Container
 sidebar_position: 2
-tags: [navigation, react native, navigation container]
+tags: [navigation, navigation container]
 ---
 
 > **`routerRender/main.js`**

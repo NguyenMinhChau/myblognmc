@@ -1,8 +1,8 @@
 ---
-id: checkversionupdatechplay
+id: check-version-update-chplay
 title: Check version update chplay
 sidebar_position: 5
-tags: [check version, update chplay, react native]
+tags: [check version, update chplay]
 ---
 
 > **Cài đặt thư viện**

@@ -2,7 +2,7 @@
 id: csr-ssr-ssg-isr
 title: CSR, SSR, SSG, ISR
 sidebar_position: 7
-tags: [nextjs, csr, ssr, ssg, isr]
+tags: [csr, ssr, ssg, isr]
 ---
 
 ## Pre-rendering (Nextjs)

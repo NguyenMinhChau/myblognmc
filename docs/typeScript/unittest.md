@@ -1,8 +1,8 @@
 ---
-id: unittesttsjest
+id: unit-test-ts-jest
 title: Tạo unit test với ts-jest
 sidebar_position: 3
-tags: [unit test, typescript, ts-jest]
+tags: [unit test, ts-jest]
 ---
 
 ## Khởi tạo package.json

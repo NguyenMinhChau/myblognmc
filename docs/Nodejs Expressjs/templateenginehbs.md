@@ -1,8 +1,8 @@
 ---
-id: templateenginehbs.md
+id: template-engine-handlebars
 title: Template Engine Handlebars
 sidebar_position: 3
-tags: [nodejs, expressjs, templateengine, handlebars]
+tags: [templateengine, handlebars]
 ---
 
 ## Cài đặt thư viện

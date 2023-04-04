@@ -1,8 +1,8 @@
 ---
-id: randomdata
+id: random-data
 title: Random dữ liệu với Faker.js
 sidebar_position: 4
-tags: [json server, random data]
+tags: [random data]
 ---
 
 ## Thư viện Faker.js

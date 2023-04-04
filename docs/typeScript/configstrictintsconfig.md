@@ -1,8 +1,8 @@
 ---
-id: configstrictintsconfig
+id: config-strict-in-tsconfig
 title: Config strict in tsconfig.jsons
 sidebar_position: 5
-tags: [typescript, config, strict]
+tags: [config, strict]
 ---
 
 > **Bật `strict=true` sẽ bật tất cả các `options` liên quan đến `strict` lên true**

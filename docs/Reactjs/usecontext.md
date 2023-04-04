@@ -1,8 +1,8 @@
 ---
-id: usecontext
+id: use-context
 title: Quản lý state bằng useConext
 sidebar_position: 17
-tags: [react, useContext, state]
+tags: [useContext, state]
 ---
 
 > **`src/app/createContext.js`**

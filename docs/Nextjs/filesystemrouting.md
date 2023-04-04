@@ -1,8 +1,8 @@
 ---
-id: filesystemrouting
+id: file-system-routing
 title: File System Routing
 sidebar_position: 4
-tags: [nextjs, routing, file system]
+tags: [routing, file system]
 ---
 
 | src/pages Directory   | src/app Directory    | Router       |

@@ -1,8 +1,8 @@
 ---
-id: genericprops
+id: generic-props
 title: Generic Props
 sidebar_position: 10
-tags: [react typescript, generic props]
+tags: [generic props]
 ---
 
 > **`generic.tsx`**

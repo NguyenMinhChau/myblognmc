@@ -1,8 +1,8 @@
 ---
-id: paginationcustom
+id: pagination-custom
 title: Pagination Custom
 sidebar_position: 13
-tags: [react, pagination]
+tags: [pagination]
 ---
 
 > **Trình tự các bước thực hiện**

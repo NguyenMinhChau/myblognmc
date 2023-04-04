@@ -1,8 +1,8 @@
 ---
-id: routerquery
+id: router-query
 title: Router Query
 sidebar_position: 5
-tags: [json server, router query]
+tags: [router query]
 ---
 
 > **Tìm kiếm, lọc, phân trang**

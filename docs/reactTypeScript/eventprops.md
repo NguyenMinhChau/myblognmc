@@ -1,8 +1,8 @@
 ---
-id: eventprops
+id: event-props
 title: Event props
 sidebar_position: 3
-tags: [react typescript, event props]
+tags: [event props]
 ---
 
 ## Button event

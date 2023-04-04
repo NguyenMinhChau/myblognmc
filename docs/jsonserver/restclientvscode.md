@@ -1,8 +1,8 @@
 ---
-id: restclientvscode
+id: rest-client-vscode
 title: REST Client - VSCode
 sidebar_position: 3
-tags: [json server, rest client]
+tags: [rest client]
 ---
 
 ## Extension

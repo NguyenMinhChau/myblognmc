@@ -2,7 +2,7 @@
 id: breadcrumb
 title: Breadcrumb
 sidebar_position: 15
-tags: [react, breadcrumb]
+tags: [breadcrumb]
 ---
 
 > **Component Breadcrumb with material.ui**

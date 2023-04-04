@@ -1,8 +1,8 @@
 ---
-id: perioddate
+id: period-date
 title: Period Date
 sidebar_position: 14
-tags: [react, perioddate]
+tags: [perioddate]
 ---
 
 > **Hàm xử lý**

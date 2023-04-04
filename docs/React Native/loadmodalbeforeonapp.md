@@ -1,8 +1,8 @@
 ---
-id: loadmodalbeforeonapp
+id: load-modal-before-on-app
 title: Load modal before on app
 sidebar_position: 6
-tags: [load modal, before on app, react native]
+tags: [load modal, before on app]
 ---
 
 > **src/app.js**

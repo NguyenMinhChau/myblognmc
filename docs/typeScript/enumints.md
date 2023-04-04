@@ -1,8 +1,8 @@
 ---
-id: enumints
+id: enum-in-ts
 title: Enum trong typescript
 sidebar_position: 9
-tags: [typescript, enum]
+tags: [enum]
 ---
 
 ## Khi nào sử dụng enum

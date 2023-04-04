@@ -44,3 +44,7 @@ body {
     overflow-x: hidden;
     overflow-y: scroll;
 }
+.theme-doc-footer-edit-meta-row,
+.theme-edit-this-page {
+    display: none;
+}

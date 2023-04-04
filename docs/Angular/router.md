@@ -2,7 +2,7 @@
 id: router
 title: Router
 sidebar_position: 10
-tags: [router, angular]
+tags: [router]
 ---
 
 ## Tạo file định nghĩa các router

@@ -2,7 +2,7 @@
 id: CRUD-with-view
 title: CRUD
 sidebar_position: 5
-tags: [nodejs, expressjs, CRUD]
+tags: [CRUD]
 ---
 
 ## Tạo mới

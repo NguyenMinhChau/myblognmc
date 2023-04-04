@@ -1,8 +1,8 @@
 ---
-id: typesystem
+id: type-system
 title: Type System
 sidebar_position: 6
-tags: [typescript, type system]
+tags: [type system]
 ---
 
 ## Các kiểu dữ liệu bên TypeScript

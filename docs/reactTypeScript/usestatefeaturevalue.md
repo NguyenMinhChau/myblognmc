@@ -1,8 +1,8 @@
 ---
-id: usestatefeaturevalue
+id: use-state-feature-value
 title: useState Feature Value
 sidebar_position: 5
-tags: [react typescript, useState feature value]
+tags: [useState feature value, hook]
 ---
 
 ```tsx

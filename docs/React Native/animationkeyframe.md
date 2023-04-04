@@ -1,8 +1,8 @@
 ---
-id: animationkeyframes
+id: animation-key-frames
 title: Animation Keyframes
 sidebar_position: 4
-tags: [animation, react native, keyframes]
+tags: [animation, keyframes]
 ---
 
 > **Cấu hình**

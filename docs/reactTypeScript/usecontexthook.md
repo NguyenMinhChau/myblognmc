@@ -1,8 +1,8 @@
 ---
-id: usecontexthook
+id: use-context-hook
 title: useContext Hook
 sidebar_position: 7
-tags: [react typescript, useContext]
+tags: [useContext]
 ---
 
 ## Basic

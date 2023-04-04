@@ -1,8 +1,8 @@
 ---
-id: getrouterparamsandquery
+id: get-router-params-and-query
 title: Get Router Params and Query
 sidebar_position: 5
-tags: [nextjs, routing, get router params, get router query]
+tags: [routing, get router params, get router query]
 ---
 
 ## Get Router Params

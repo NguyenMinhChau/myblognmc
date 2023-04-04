@@ -1,8 +1,8 @@
 ---
-id: localstorage
+id: local-storage
 title: Local Storage
 sidebar_position: 8
-tags: [localstorage, react native]
+tags: [local storage]
 ---
 
 > **Cài đặt thư viện**

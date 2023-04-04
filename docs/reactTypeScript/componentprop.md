@@ -1,8 +1,8 @@
 ---
-id: componentprop
+id: component-prop
 title: Component Prop
 sidebar_position: 9
-tags: [react typescript, component prop]
+tags: [component prop]
 ---
 
 > **`login.tsx`**

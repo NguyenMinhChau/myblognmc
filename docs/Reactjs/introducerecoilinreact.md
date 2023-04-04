@@ -1,5 +1,5 @@
 ---
-id: introducerecoilinreact
+id: introduce-recoil-in-react
 title: Giới thiệu Recoil trong React
 sidebar_position: 16
 tags: [react, recoil]

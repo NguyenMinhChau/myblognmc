@@ -1,8 +1,8 @@
 ---
-id: localstorage
+id: local-storage
 title: Local Storage
 sidebar_position: 7
-tags: [react, local storage]
+tags: [local storage]
 ---
 
 > **Hàm xử lý**

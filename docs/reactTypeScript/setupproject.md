@@ -1,8 +1,8 @@
 ---
-id: setupproject
+id: set-up-project
 title: Khởi tạo dự án
 sidebar_position: 1
-tags: [react typescript, setup]
+tags: [setup]
 ---
 
 > **Cài đặt**

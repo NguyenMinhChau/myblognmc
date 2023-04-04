@@ -1,5 +1,5 @@
 ---
-id: setupproject
+id: set-up-project
 title: Khởi tạo dự án
 sidebar_position: 2
 tags: [nodejs, expressjs, setup]

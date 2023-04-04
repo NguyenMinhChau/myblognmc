@@ -1,8 +1,8 @@
 ---
-id: customoutput
+id: custom-output
 title: Custom Output
 sidebar_position: 6
-tags: [json server, custom output]
+tags: [custom output]
 ---
 
 ## Tham khảo

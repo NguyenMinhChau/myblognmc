@@ -1,5 +1,5 @@
 ---
-id: setupnextjsts
+id: set-up-and-deploy-nextjs-ts
 title: Setup, Nextjs + TypeScript và Deploy
 sidebar_position: 3
 tags: [nextjs, typescript, deploy]

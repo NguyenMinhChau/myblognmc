@@ -1,8 +1,8 @@
 ---
-id: angularmaterial
+id: angular-material
 title: Angular Material
 sidebar_position: 9
-tags: [angularmaterial, angular]
+tags: [angular material]
 ---
 
 ## Cài đặt

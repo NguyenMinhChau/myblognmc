@@ -1,8 +1,8 @@
 ---
-id: styleprops
+id: style-props
 title: Style Props
 sidebar_position: 4
-tags: [react typescript, style props]
+tags: [style props]
 ---
 
 ```tsx

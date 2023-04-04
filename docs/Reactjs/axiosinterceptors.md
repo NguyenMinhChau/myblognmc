@@ -1,8 +1,8 @@
 ---
-id: axiosinterceptors
+id: axios-interceptors
 title: Axios Interceptors
 sidebar_position: 12
-tags: [react, axios, interceptors]
+tags: [axios, interceptors]
 ---
 
 > **HÀM XỬ LÝ**

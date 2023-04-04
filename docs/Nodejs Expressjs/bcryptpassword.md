@@ -1,8 +1,8 @@
 ---
-id: bcryptpassword
+id: bcrypt-password
 title: Mã hóa mật khẩu bằng bcrypt
 sidebar_position: 8
-tags: [nodejs, expressjs, bcrypt, password]
+tags: [bcrypt, password]
 ---
 
 > **Cài đặt thư viện hỗ trợ**

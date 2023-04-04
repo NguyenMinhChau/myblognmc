@@ -2,7 +2,7 @@
 id: props
 title: Props
 sidebar_position: 2
-tags: [react typescript, props]
+tags: [props]
 ---
 
 ## Basic props

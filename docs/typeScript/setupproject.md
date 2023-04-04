@@ -1,5 +1,5 @@
 ---
-id: setupproject
+id: set-up-project
 title: Khởi tạo và thực thi dự án
 sidebar_position: 2
 tags: [setup, typescript]

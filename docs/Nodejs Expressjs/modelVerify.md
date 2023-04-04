@@ -1,8 +1,8 @@
 ---
-id: modelVerify
+id: model-verify
 title: Model xác thực
 sidebar_position: 13
-tags: [nodejs, expressjs, jwt, token, modal, verify]
+tags: [jwt, token, modal, verify]
 ---
 
 > **Model này dùng để tạo ra cấu trúc trong database cho việc lưu và xác thực mã code của người dùng**

@@ -1,8 +1,8 @@
 ---
-id: utilitytypeints
+id: utility-type-in-ts
 title: Utility Types trong TypeScript
 sidebar_position: 11
-tags: [typescript, utility types]
+tags: [utility types]
 ---
 
 ## Partial

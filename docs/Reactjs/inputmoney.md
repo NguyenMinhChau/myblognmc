@@ -1,8 +1,8 @@
 ---
-id: inputmoney
+id: input-money
 title: Input Money
 sidebar_position: 10
-tags: [react, inputmoney]
+tags: [input money]
 ---
 
 > **Hàm xử lý**

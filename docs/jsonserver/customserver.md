@@ -1,8 +1,8 @@
 ---
-id: customserver
+id: custom-server
 title: Cấu hình router và dữ liệu
 sidebar_position: 2
-tags: [json server, custom router, custom data]
+tags: [custom router, custom data]
 ---
 
 ## Khởi tạo package.json

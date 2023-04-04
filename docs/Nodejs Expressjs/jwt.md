@@ -2,7 +2,7 @@
 id: jwt
 title: JWT
 sidebar_position: 9
-tags: [nodejs, expressjs, jwt, token]
+tags: [jwt, token]
 ---
 
 > **Cài đặt thư viện**

@@ -1,8 +1,8 @@
 ---
-id: formatcurrency
+id: format-currency
 title: Định dạng tiền tệ
 sidebar_position: 8
-tags: [formatcurrency, angular]
+tags: [format currency]
 ---
 
 ## Cú pháp

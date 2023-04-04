@@ -1,8 +1,8 @@
 ---
-id: sendemailuser
+id: send-email-user
 title: Gửi email cho người dùng
 sidebar_position: 12
-tags: [nodejs, expressjs, jwt, token, send email, nodemailer]
+tags: [jwt, token, send email, nodemailer]
 ---
 
 ## Cài đặt thư viện
@@ -130,7 +130,7 @@ register: async (req, res) => {
 };
 ```
 
-> **Model [VerifyAccount](modelVerify)**
+> **Model [VerifyAccount](model-verify)**
 
 ## Send email xác thực tài khoản khi chưa xác thực lúc đăng ký
 
@@ -214,7 +214,7 @@ sendMailVerify: async (req, res) => {
 };
 ```
 
-> **Model [VerifyAccount](modelVerify)**
+> **Model [VerifyAccount](model-verify)**
 
 ## Gửi lại mã OTP
 
@@ -293,7 +293,7 @@ resendCode: async (req, res) => {
 };
 ```
 
-> **Model [VerifyAccount](modelVerify)**
+> **Model [VerifyAccount](model-verify)**
 
 ## Kiểm tra OTP Verify
 
@@ -353,4 +353,4 @@ checkCodeVerify: async (req, res) => {
 };
 ```
 
-> **Model [VerifyAccount](modelVerify)**
+> **Model [VerifyAccount](model-verify)**

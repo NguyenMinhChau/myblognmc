@@ -1,8 +1,8 @@
 ---
-id: refreshtoken
+id: refresh-token
 title: Refresh Token Interceptors
 sidebar_position: 11
-tags: [react, refreshtoken]
+tags: [refresh token]
 ---
 
 > **Hàm xử lý**

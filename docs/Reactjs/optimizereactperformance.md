@@ -1,8 +1,8 @@
 ---
-id: optimizareactperformance
+id: optimize-react-performance
 title: Optimize React Performance
 sidebar_position: 3
-tags: [react, performance]
+tags: [performance]
 ---
 
 ## Use Browser Performance Tools

@@ -1,8 +1,8 @@
 ---
-id: restrictingprops
+id: restricting-props
 title: Restricting Props (Hạn chế props)
 sidebar_position: 11
-tags: [react typescript, restricting props]
+tags: [restricting props]
 ---
 
 > **`restricting.tsx`**

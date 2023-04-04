@@ -1,8 +1,8 @@
 ---
-id: checkcurrentuser
+id: check-current-user
 title: Check Current User
 sidebar_position: 4
-tags: [react, check user]
+tags: [check user]
 ---
 
 > **Hàm xử lý cho JS, TS**

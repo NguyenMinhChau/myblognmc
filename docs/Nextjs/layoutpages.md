@@ -1,8 +1,8 @@
 ---
-id: layoutpages
+id: layout-pages
 title: Layout pages
 sidebar_position: 8
-tags: [nextjs, layout pages]
+tags: [layout pages]
 ---
 
 > `src/app/layout.tsx` -> Đây là layout chung cho tất cả các trang (chỉ có children thay đổi)

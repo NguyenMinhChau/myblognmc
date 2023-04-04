@@ -1,8 +1,8 @@
 ---
-id: reactwebpack
+id: react-webpack
 title: Tạo dự án React + Webpack
 sidebar_position: 2
-tags: [react, webpack]
+tags: [react webpack]
 ---
 
 ## Webpack là gì?

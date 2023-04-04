@@ -1,8 +1,8 @@
 ---
-id: functionints
+id: function-in-ts
 title: Kiểu dữ liệu function trả về trong TypeScript
 sidebar_position: 8
-tags: [typescript, function, return type]
+tags: [function, return type]
 ---
 
 ```ts

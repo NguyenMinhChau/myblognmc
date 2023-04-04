@@ -1,8 +1,8 @@
 ---
-id: databindingandexportimport
+id: data-binding-and-export-import
 title: Data binding và export/import
 sidebar_position: 4
-tags: [databinding, exportimport, angular]
+tags: [data binding, export, import]
 ---
 
 ## Data Binding

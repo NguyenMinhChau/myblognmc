@@ -1,8 +1,8 @@
 ---
-id: tabnavigator
+id: tab-navigator
 title: Tab Navigator
 sidebar_position: 3
-tags: [navigation, react native, tab navigator]
+tags: [navigation, tab navigator]
 ---
 
 > **`routerRender/router.js`**

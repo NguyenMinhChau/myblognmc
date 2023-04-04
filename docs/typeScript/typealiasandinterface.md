@@ -1,8 +1,8 @@
 ---
-id: typealiasandinterface
+id: type-alias-and-interface
 title: Type Alias and Interface
 sidebar_position: 7
-tags: [typescript, type alias, interface]
+tags: [type alias, interface]
 ---
 
 ## Type Alias

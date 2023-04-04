@@ -1,8 +1,8 @@
 ---
-id: setupandusage
+id: set-up-and-usage
 title: Setup và sử dụng
 sidebar_position: 2
-tags: [redux toolkit, setup, usage]
+tags: [setup, usage]
 ---
 
 > Cài đặt thư viện

@@ -1,8 +1,8 @@
 ---
-id: downloadfilelocal
+id: download-file-local
 title: Download File Local
 sidebar_position: 6
-tags: [react, download, file]
+tags: [download file]
 ---
 
 > **Hàm xử lý**

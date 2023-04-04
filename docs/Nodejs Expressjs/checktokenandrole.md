@@ -1,8 +1,8 @@
 ---
-id: checktokenandrole
+id: check-token-and-role
 title: Middleware kiểm tra Token và quyền người dùng
 sidebar_position: 11
-tags: [nodejs, expressjs, jwt, token, check token, check role, middleware]
+tags: [jwt, token, check token, check role, middleware]
 ---
 
 ## Kiểm tra token

@@ -1,8 +1,8 @@
 ---
-id: useref
+id: use-ref
 title: useRef
 sidebar_position: 8
-tags: [react typescript, useref, hook]
+tags: [useref, hook]
 ---
 
 ## useRef for DOM element

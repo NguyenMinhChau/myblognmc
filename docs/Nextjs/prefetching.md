@@ -2,7 +2,7 @@
 id: prefetching
 title: Prefetching
 sidebar_position: 6
-tags: [nextjs, prefetching]
+tags: [prefetching]
 ---
 
 > Chỉ tự động tải trước tài nguyên những trang nằm trong thẻ `<Link href='...'></Link>` và có trong viewport (màn hình trình duyệt mà người dùng nhìn thấy).

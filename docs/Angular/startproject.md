@@ -1,8 +1,8 @@
 ---
-id: startproject
+id: start-project
 title: Khởi tạo dự án
 sidebar_position: 2
-tags: [startproject, angular]
+tags: [start project, angular]
 ---
 
 ## Cài đặt Angular CLI

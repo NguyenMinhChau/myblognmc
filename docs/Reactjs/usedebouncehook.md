@@ -1,8 +1,8 @@
 ---
-id: usedebouncehook
+id: use-debounce-hook
 title: Use Debounce Hook
 sidebar_position: 8
-tags: [react, debounce]
+tags: [debounce]
 ---
 
 > **Hàm xử lý**

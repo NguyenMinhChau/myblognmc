@@ -1,8 +1,8 @@
 ---
-id: routermapcomponent
+id: router-map-component
 title: Router Map Component
 sidebar_position: 5
-tags: [react, router]
+tags: [router]
 ---
 
 > **src/App.js**

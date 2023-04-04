@@ -1,8 +1,8 @@
 ---
-id: sasscompiler
+id: sass-compiler
 title: SASS Compiler
 sidebar_position: 4
-tags: [nodejs, expressjs, sass compiler]
+tags: [sass compiler]
 ---
 
 ## Cài đặt sass

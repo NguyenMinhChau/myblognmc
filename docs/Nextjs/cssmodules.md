@@ -1,8 +1,8 @@
 ---
-id: cssmodules
+id: css-modules
 title: CSS Modules và Global
 sidebar_position: 9
-tags: [nextjs, css modules, global]
+tags: [css modules, global]
 ---
 
 > Các file `css global` luôn được `import` vào file `src/app/layout.tsx`

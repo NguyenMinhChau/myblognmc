@@ -1,8 +1,8 @@
 ---
-id: genericsints
+id: generics-in-ts
 title: Generics trong typescript
 sidebar_position: 10
-tags: [typescript, generics]
+tags: [generics]
 ---
 
 ## Generics là gì?

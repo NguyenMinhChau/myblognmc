@@ -1,8 +1,8 @@
 ---
-id: usereducerstrictaction
+id: use-reducer-strict-action
 title: useReducer with strict action
 sidebar_position: 6
-tags: [react typescript, useReducer, state]
+tags: [useReducer, state, strict]
 ---
 
 ```tsx

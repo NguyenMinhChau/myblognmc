@@ -1,8 +1,8 @@
 ---
-id: imagepicker
+id: image-picker
 title: Image Picker
 sidebar_position: 9
-tags: [image picker, react native]
+tags: [image picker]
 ---
 
 > **Cài đặt thưu viện**

@@ -1,8 +1,8 @@
 ---
-id: lifecyclehook
+id: lifecycle-hook
 title: Lifecycle hook
 sidebar_position: 7
-tags: [lifecyclehook, angular]
+tags: [lifecycle hook]
 ---
 
 ## Các lifecycle hook cơ bản trong angular

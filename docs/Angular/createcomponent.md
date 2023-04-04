@@ -1,5 +1,5 @@
 ---
-id: createcomponent
+id: create-component-with-angular-cli
 title: Tạo component với Angular CLI
 sidebar_position: 3
 tags: [component, angular]

@@ -2,7 +2,7 @@
 id: scrollview
 title: ScrollView
 sidebar_position: 7
-tags: [scrollview, react native]
+tags: [scrollview]
 ---
 
 > **Cấu hình**

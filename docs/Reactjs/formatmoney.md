@@ -1,8 +1,8 @@
 ---
-id: formatmoney
+id: format-money
 title: Format Money
 sidebar_position: 9
-tags: [react, formatmoney]
+tags: [format money]
 ---
 
 > **HÀM LÀM TRÒN**

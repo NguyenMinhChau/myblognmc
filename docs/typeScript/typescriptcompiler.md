@@ -1,5 +1,5 @@
 ---
-id: typescriptcompiler
+id: typescript-compiler
 title: TypeScript Compiler
 sidebar_position: 4
 tags: [typescript, compiler]
